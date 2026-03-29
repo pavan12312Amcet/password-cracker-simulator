@@ -20,25 +20,26 @@ A Python-based cybersecurity project that demonstrates how weak passwords can be
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 password-cracker-simulator/
-│── main.py
-│── dictionary_attack.py
-│── brute_force.py
-│── hash_cracker.py
-│── hash_utils.py
-│── strength_checker.py
-│── common_passwords.txt
-│── image.png
-│── README.md
-
+│
+├── main.py
+├── dictionary_attack.py
+├── brute_force.py
+├── hash_cracker.py
+├── hash_utils.py
+├── strength_checker.py
+├── common_passwords.txt
+├── image.png
+└── README.md
+```
 ---
 ## ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/password-cracker-simulator.git
-
+git clone https://github.com/pavan12312Amcet/password-cracker-simulator.git
 2. Navigate to folder:
 cd password-cracker-simulator
 
