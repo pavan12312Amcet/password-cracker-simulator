@@ -22,13 +22,16 @@ A Python-based cybersecurity project that demonstrates how weak passwords can be
 
 ## 📂 Project Structure
 
-main.py
-dictionary_attack.py
-brute_force.py
-hash_cracker.py
-hash_utils.py
-strength_checker.py
-common_passwords.txt
+password-cracker-simulator/
+│── main.py
+│── dictionary_attack.py
+│── brute_force.py
+│── hash_cracker.py
+│── hash_utils.py
+│── strength_checker.py
+│── common_passwords.txt
+│── image.png
+│── README.md
 
 ---
 
