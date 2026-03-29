@@ -38,13 +38,14 @@ common_passwords.txt
 2. Run:
 
 ```
-'python main.'
+python main.py
+
+```
+
 
 ## 📸 Output Example
 
-'![Output](image.png)'
-
-```
+![Output](image.png) 
 
 ---
 
