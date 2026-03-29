@@ -36,24 +36,17 @@ password-cracker-simulator/
 └── README.md
 ```
 ---
-## ⚙️ Installation
+## ⚙️ Installation & Usage
 
 1. Clone the repository:
-git clone https://github.com/pavan12312Amcet/password-cracker-simulator.git
+   git clone https://github.com/pavan12312Amcet/password-cracker-simulator.git
+
 2. Navigate to folder:
-cd password-cracker-simulator
+   cd password-cracker-simulator
 
-3. Run the program:
-python main.py
-
-## ▶️ How to Run
-
-1. Open terminal
-2. Run:
-
-```
-python main.py
-
+3. Run:
+   python main.py
+   
 ```
 
 
