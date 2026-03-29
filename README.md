@@ -1,12 +1,12 @@
 # 🔐 Password Cracker Simulator
 
-A Python-based cybersecurity project that demonstrates how weak passwords can be cracked using dictionary attacks and SHA-256 hash techniques.
+A beginner-friendly cybersecurity project demonstrating how weak passwords can be cracked using dictionary attacks and SHA-256 hashing.
 
 ---
 
 ## 🚀 Features
 
-* 🔍 Dictionary Attack (wordlist-based)
+* 🔎 Dictionary Attack (wordlist-based)
 * 🔐 SHA-256 Hash Cracking
 * ⚡ Password Strength Checker
 * 📂 File-based password testing
@@ -35,7 +35,9 @@ password-cracker-simulator/
 ├── image.png
 └── README.md
 ```
+
 ---
+
 ## ⚙️ Installation & Usage
 
 1. Clone the repository:
@@ -44,11 +46,10 @@ password-cracker-simulator/
 2. Navigate to folder:
    cd password-cracker-simulator
 
-3. Run:
+3. Run the program:
    python main.py
-   
-```
 
+---
 
 ## 📸 Output Example
 
@@ -68,7 +69,12 @@ password-cracker-simulator/
 
 ## ⚠️ Disclaimer
 
-This project is created for **educational purposes only**.
-Do not use it for illegal activities.
+This project is created for **educational purposes only**. Do not use it for illegal activities.
 
 ---
+
+## 🚀 Future Improvements
+
+* Add GUI interface
+* Support multiple hashing algorithms
+* Improve brute-force performance
