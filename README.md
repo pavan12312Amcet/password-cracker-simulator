@@ -39,6 +39,10 @@ common_passwords.txt
 
 ```
 python main.py
+
+## 📸 Output Example
+
+![Output](image.png)
 ```
 
 ---
