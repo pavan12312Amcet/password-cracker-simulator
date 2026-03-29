@@ -43,6 +43,7 @@ python main.py
 ## 📸 Output Example
 
 ![Output](image.png)
+
 ```
 
 ---
